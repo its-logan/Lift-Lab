@@ -35,6 +35,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+#vscode
+.vscode/
+.vscode/*
+!.vscode/settings.json.example
 
 app-example
 
